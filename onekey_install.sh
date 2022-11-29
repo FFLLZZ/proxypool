@@ -327,9 +327,8 @@ start_menu(){
     clear
     green "======================================="
     green " 环境：适用于CentOS7，一键安装免费节点爬虫"
-    green " 作者：Littleyu+部分代码来源网络"
-    green " 网站：yugogo.xyz"
-    green " Youtube频道：yu little"
+    green " 网站：www.naiyou001.tk"
+    green " Youtube频道：一瓶奶油"
     green "======================================="
     green "1. 一键安装免费节点爬虫"
     red "2. 卸载爬虫"
