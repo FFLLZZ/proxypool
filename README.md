@@ -119,6 +119,13 @@ proxypool -c ./config/config.yaml
 
 本项目仅限个人自己使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
 
+如果要修改参数，需要先停止服务器
+ps -ef |grep proxypool
+kill -s 9 你的PID
+
+启动命令:
+nohup ./proxypool -c config.yaml >/dev/null 2>/dev/null &
+
 筛选节点:
 https://你的域名/clash/proxies?c=HK,TW,SG,US&speed=5,30&type=ss,vmess
 
