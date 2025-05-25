@@ -118,3 +118,10 @@ proxypool -c ./config/config.yaml
 本项目遵循 GNU General Public License v3.0 开源，在此基础上，所有使用本项目提供服务者都必须在网站首页保留指向本项目的链接
 
 本项目仅限个人自己使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
+
+筛选节点:
+https://你的域名/clash/proxies?c=HK,TW,SG,US&speed=5,30&type=ss,vmess
+
+节点转换：https://acl4ssr-sub.github.io/
+
+https://www.youtube.com/watch?v=KqvnghnjJpk
